@@ -1,5 +1,6 @@
 {
     "name": "test_8LED_neopixel",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
